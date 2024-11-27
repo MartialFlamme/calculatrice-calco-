@@ -1,0 +1,7 @@
+{
+    "name" : "NOUVEAU DOSSIER",
+    "version" : "1.0",
+    "scripts": {
+        "start" : "live-server",
+    }
+}
